@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend React Web Developer
 ----------------------------
 
-I've been learning to code for 2years. after switching careers.i have found a passion for frontend development...
+i have found a passion for frontend development...
 
 * 🌍  I'm based in Lagos, nigeria.
 * ✉️  You can contact me at [odionjulius7@gmail.com](mailto:odionjulius7@gmail.com)
